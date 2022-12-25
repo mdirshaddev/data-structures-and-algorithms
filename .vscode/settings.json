@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "[cpp]": {
+        "editor.tabSize": 4
+    },
+    "workbench.colorTheme": "GitHub Light Default",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.commandCenter": true
+}
