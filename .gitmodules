@@ -1,0 +1,6 @@
+[submodule "data-structures"]
+	path = data-structures
+	url = https://github.com/mdirshaddev/data-structures.git
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/mdirshaddev/algorithms.git
